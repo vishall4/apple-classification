@@ -4,7 +4,7 @@
 **Author:** Vishal  
 **Date:** November 2024  
 **Model:** PyramidNet-18  
-**Dataset:** 800 curated real-world apple images  
+**Dataset:** 800 curated real-world apple images.
 **Final Result:** 64.29% validation accuracy  
 
 ---
