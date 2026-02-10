@@ -1,7 +1,7 @@
 # Apple Variety Classification: A Complete Experimental Journey
 ## When Transfer Learning Fails: Lessons from Limited Data
 
-**Author:** Vishal  
+**Author:** Vishal    
 **Date:** November 2024  
 **Model:** PyramidNet-18  
 **Dataset:** 800 curated real-world apple images.
